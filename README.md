@@ -1,162 +1,125 @@
-<!--
-  PREMIUM GITHUB PROFILE README
-  GitHub username: Siddik1811
-  Theme: Midnight / Neon Cyan / Violet
--->
+<!-- ===================== HEADER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Pathan%20Mohmad%20Siddik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=58" width="100%" alt="header"/>
 
 <div align="center">
 
-<a href="https://github.com/Siddik1811">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:06B6D4&height=220&section=header&text=Siddik%20Pathan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20WEB%20%26%20MOBILE&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Siddik Pathan — Full Stack Developer"/>
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Real+Products;Full-Stack+Web+%26+Mobile+Developer;React+%7C+Node.js+%7C+Flutter;Learning.+Building.+Improving.+Repeating." alt="Developer typing animation"/>
-
-<br/>
-
-<a href="https://github.com/Siddik1811">
-  <img src="https://komarev.com/ghpvc/?username=Siddik1811&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/Siddik1811?tab=followers">
-  <img src="https://img.shields.io/github/followers/Siddik1811?style=for-the-badge&color=7C3AED&labelColor=111827&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/Siddik1811?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-06B6D4?style=for-the-badge&labelColor=111827" alt="Explore repositories"/>
-</a>
-
-</div>
-
----
-
-## `01` &nbsp; About Me
-
-```javascript
-const siddik = {
-  role: "Full-Stack Developer",
-  focus: ["Web Applications", "Mobile Applications", "REST APIs"],
-  frontend: ["React", "JavaScript", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-  mobile: ["Flutter", "Dart"],
-  databases: ["MongoDB", "MySQL", "Firebase", "SQLite"],
-  tools: ["Git", "GitHub", "Postman", "Docker"],
-  currentlyLearning: ["Advanced React", "System Design"],
-  mindset: "Build real products. Keep getting better."
-};
-
-console.log("Turning ideas into working software.");
-```
-
-- Building full-stack web and mobile applications.
-- Interested in clean architecture, scalable APIs and practical software engineering.
-- Exploring better ways to turn ideas into reliable, production-ready products.
-- Open to collaborating on meaningful software projects.
-
-## `02` &nbsp; Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/SiddikPathan">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/hacker_eye_111">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:siddikkhanpathan58@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-## `03` &nbsp; Tech Arsenal
-
-<div align="center">
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jquery&theme=dark&perline=8" alt="Frontend technologies"/>
-
-**BACKEND & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,firebase,python&theme=dark&perline=7" alt="Backend and database technologies"/>
-
-**MOBILE, TOOLS & DEPLOYMENT**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,postman,vercel,netlify&theme=dark&perline=7" alt="Mobile development and tools"/>
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Also%20Exploring-C%23%20%7C%20ASP.NET%20%7C%20Power%20BI-7C3AED?style=flat-square" alt="Additional technologies"/>
-</p>
-
-## `04` &nbsp; Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Siddik1811/MovieFlix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddik1811&repo=MovieFlix&theme=tokyonight&hide_border=true" width="49%" alt="MovieFlix repository"/>
-</a>
-<a href="https://github.com/Siddik1811/Wishi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddik1811&repo=Wishi&theme=tokyonight&hide_border=true" width="49%" alt="Wishi repository"/>
-</a>
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/Siddik1811?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View all projects"/>
-  </a>
-</p>
-
-## `05` &nbsp; GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Siddik1811">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Siddik1811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Siddik1811">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddik1811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Siddik+%7C+Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter+%7C+MongoDB;I+turn+ideas+into+real-world+applications+%F0%9F%9A%80;Open+to+collaboration+on+cool+projects+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Siddik1811">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Siddik1811&theme=tokyonight&hide_border=true&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Siddik1811">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddik1811&bg_color=1a1b27&color=70a5fd&line=22d3ee&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</a>
-
-</div>
-
-## `06` &nbsp; Developer Mindset
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-
-**Think clearly. Build consistently. Ship meaningful software.**
-
-<br/>
-
-<a href="https://github.com/Siddik1811">
-  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-22C55E?style=flat-square" alt="Always learning"/>
-</a>
-<a href="https://github.com/Siddik1811?tab=repositories">
-  <img src="https://img.shields.io/badge/MISSION-Build%20Useful%20Things-06B6D4?style=flat-square" alt="Build useful things"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Siddik1811&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/Siddik1811?style=for-the-badge&logo=github&color=1f6feb" alt="followers"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:111827&height=110&section=footer" width="100%" alt="Decorative footer"/>
+<a href="https://linkedin.com/in/SiddikPathan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/hacker_eye_111"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:siddikkhanpathan58@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<!--
-External widgets depend on third-party services.
-If a card fails to load, check the corresponding service.
--->
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+<h2 align="center">⚡ About Me</h2>
+
+<div align="center">
+
+| | |
+|---|---|
+| 🔭 **Building** | Full-stack web & mobile applications |
+| 🌱 **Learning** | Advanced React.js, Node.js, Flutter & System Design |
+| 👯 **Collaborating** | Innovative software projects |
+| 🤝 **Looking for help** | Scalable, production-ready apps |
+| 💬 **Ask me about** | JavaScript, React, Node.js, Flutter, Firebase & MongoDB |
+| ⚡ **Fun fact** | I love turning ideas into real-world applications |
+
+</div>
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Frontend & Mobile**<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+**Backend & Database**<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+**Tools & Deployment**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Siddik1811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddik1811&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Siddik1811&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF" width="600"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddik1811&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&color=00F7FF&line=7aa2f7&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== TROPHIES ===================== -->
+<h2 align="center">🏆 Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddik1811&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+<br/>
+
+<!-- ===================== SNAKE ===================== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Siddik1811/Siddik1811/output/github-snake-dark.svg" alt="snake" />
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<br/>
+<div align="center">
+  <b>⭐ If you like my work, let's connect and build something great together! ⭐</b>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=120&section=footer" width="100%" alt="footer"/>
