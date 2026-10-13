@@ -1,16 +1,18 @@
-<!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Pathan%20Mohmad%20Siddik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=58" width="100%" alt="header"/>
+<!-- HEADER (animated SVG from your own repo) -->
+<img src="https://raw.githubusercontent.com/Siddik1811/Siddik1811/main/assets/header.svg" width="100%" alt="Pathan Mohmad Siddik"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Siddik+%7C+Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter+%7C+MongoDB;I+turn+ideas+into+real-world+applications+%F0%9F%9A%80;Open+to+collaboration+on+cool+projects+%F0%9F%A4%9D" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/Siddik1811">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi+%F0%9F%91%8B+I'm+Siddik;Full-Stack+Web+%26+Mobile+Developer;React+%7C+Node.js+%7C+Flutter+%7C+MongoDB;I+turn+ideas+into+real-world+apps+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Siddik1811&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/Siddik1811?style=for-the-badge&logo=github&color=1f6feb" alt="followers"/>
+<img src="https://img.shields.io/github/followers/Siddik1811?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea043?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Building%20in%20Public-bb9af7?style=for-the-badge&labelColor=0d1117"/>
 
 <br/><br/>
 
@@ -22,13 +24,12 @@
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
 <h2 align="center">⚡ About Me</h2>
 
 <div align="center">
 
 | | |
-|---|---|
+|:--|:--|
 | 🔭 **Building** | Full-stack web & mobile applications |
 | 🌱 **Learning** | Advanced React.js, Node.js, Flutter & System Design |
 | 👯 **Collaborating** | Innovative software projects |
@@ -40,7 +41,6 @@
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
@@ -82,44 +82,49 @@
 
 <br/>
 
-<!-- ===================== STATS ===================== -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+| Project | Link |
+|:--|:--|
+| 🚗 **Car Management System** | [View Source →](https://github.com/Siddik1811/Car-Management-System) |
+| 🚕 **Cab Management System** | [View Source →](https://github.com/Siddik1811/CabManagementSystem) |
+
+</div>
+
+<br/>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Siddik1811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddik1811&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117" />
+<img src="https://github-readme-stats.shion.dev/api?username=Siddik1811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="stats"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Siddik1811&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" alt="languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Siddik1811&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF" width="600"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddik1811&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&color=00F7FF&line=7aa2f7&point=ffffff" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Siddik1811&theme=tokyonight&hide_border=true&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF" width="98%" alt="streak"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
-<h2 align="center">🏆 Trophies</h2>
-
+<!-- SNAKE (needs the GitHub Action from .github/workflows/snake.yml) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddik1811&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddik1811/Siddik1811/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Siddik1811/Siddik1811/output/github-snake.svg" width="100%" alt="snake"/>
+  </picture>
 </div>
 
 <br/>
 
-<!-- ===================== SNAKE ===================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Siddik1811/Siddik1811/output/github-snake-dark.svg" alt="snake" />
+  <b>⭐ Like my work? Let's connect and build something great together! ⭐</b>
 </div>
 
-<!-- ===================== FOOTER ===================== -->
 <br/>
-<div align="center">
-  <b>⭐ If you like my work, let's connect and build something great together! ⭐</b>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=120&section=footer" width="100%" alt="footer"/>
+<!-- FOOTER -->
+<img src="https://raw.githubusercontent.com/Siddik1811/Siddik1811/main/assets/footer.svg" width="100%" alt="footer"/>
